@@ -7,4 +7,5 @@ React restaurant app with implemented cart
 3. Run **npm i** command
 4. Run **npm start** command
 
-Live app: https://foodorder-obradovicsl.netlify.app/
+## Live app: 
+[Shop101](https://foodorder-obradovicsl.netlify.app/)
